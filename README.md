@@ -9,11 +9,11 @@ Google Maps auto photo upload using selenium with python in localhost
 
 #Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as l.py. The script is used to automatically like a particular YouTube video with multiple accounts
 
-in map.py 20th line with which school,place etc..
+in map.py 23th line with which school,place etc..
 
-you want auto rating replace it and in 33 line replace with comment...
+you want auto rating replace it and in 30 line replace with image photo path...
 
-First, open Chrome file location and bypass the location restriction using an extension such as Touch VPN. In my case, the Chrome location(use start in: path) is
+First, open Chrome file location and In my case, the Chrome location(use start in: path) is
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
@@ -33,7 +33,7 @@ then new terminal in that folder and enter map.py (letter l not one)
 
 After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the google map URL in Chrome, automatically...
 
-That's it! The URL will open in the previously opened localhost Chrome and do auto ratings...
+That's it! The URL will open in the previously opened localhost Chrome and do auto photo upload...
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
