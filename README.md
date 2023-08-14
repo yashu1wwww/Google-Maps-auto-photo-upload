@@ -1,5 +1,5 @@
 # Google-Maps-auto-photo-upload-
-Google Maps auto photo upload using selenium with python in localhost
+Google Maps auto photo upload using selenium with python on localhost
 
  𝖕𝖗𝖔𝖈𝖊𝖘𝖘 𝖎𝖓 𝖈𝖔𝖓𝖘𝖙𝖗𝖚𝖈𝖙𝖎𝖔𝖓 85% 𝖉𝖔𝖓𝖊 𝖗𝖊𝖒𝖆𝖎𝖓𝖎𝖓𝖌 𝖙𝖍𝖎𝖓𝖌𝖘 𝖐𝖓𝖔𝖜 𝖒𝖊𝖆𝖓𝖘 𝖋𝖔𝖗𝖐 𝖎𝖙
 
