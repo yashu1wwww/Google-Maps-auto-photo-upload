@@ -1,13 +1,9 @@
 # Google-Maps-auto-photo-upload-
 Google Maps auto photo upload using selenium with python on localhost
 
- 𝖕𝖗𝖔𝖈𝖊𝖘𝖘 𝖎𝖓 𝖈𝖔𝖓𝖘𝖙𝖗𝖚𝖈𝖙𝖎𝖔𝖓 85% 𝖉𝖔𝖓𝖊 𝖗𝖊𝖒𝖆𝖎𝖓𝖎𝖓𝖌 𝖙𝖍𝖎𝖓𝖌𝖘 𝖐𝖓𝖔𝖜 𝖒𝖊𝖆𝖓𝖘 𝖋𝖔𝖗𝖐 𝖎𝖙
+https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
- in upload section having error upcoming days try to overcome..
-
- https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
-
-#Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as upload.py
+# Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as upload.py
 
 in map.py 23th line with which school,place etc..
 
