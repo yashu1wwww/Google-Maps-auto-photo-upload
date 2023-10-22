@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 ## you want auto rating replace it and in 33 line replace with image photo path...
 
+If it comfort to use in undetected_chromedriver script then fork it...
+
 First, open Chrome file location and In my case, the Chrome location(use start in: path) is
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
