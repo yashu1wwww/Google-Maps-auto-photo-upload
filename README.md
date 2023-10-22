@@ -5,9 +5,9 @@ https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
 # Watch up to 3 minutes and 46 seconds, and then remain in the remaining part copying the part of the script and save it as upload.py
 
-in map.py 23th line with which school,place etc..
+## in map.py 22th line with which school,place etc..
 
-you want auto rating replace it and in 30 line replace with image photo path...
+## you want auto rating replace it and in 33 line replace with image photo path...
 
 First, open Chrome file location and In my case, the Chrome location(use start in: path) is
 
