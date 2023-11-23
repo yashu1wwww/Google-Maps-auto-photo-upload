@@ -1,6 +1,9 @@
 # Google-Maps-auto-photo-upload-
 Google Maps auto photo upload using selenium with python on localhost
 
+
+# If it comfort to use in undetected_chromedriver script then fork it.
+
 ## I searched on Google but couldn't find it, so I created it. That's it.
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
